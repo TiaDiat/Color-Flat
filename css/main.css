@@ -1,0 +1,72 @@
+img {
+	display: inline-block;
+	height: 300px;
+	width: 400px;
+}
+
+nav.navbar, .carousel {
+	background-color: #587EA3;
+}
+
+.carousel-caption h1 {
+    vertical-align: middle;
+    text-align: center;
+    width: 300px;
+}
+
+img.icon {
+	height: 100px;
+	width: 100px;
+}
+
+.main {
+	background-color: lightgreen;
+	color: white;
+}
+
+img.dog {
+	height: 200px;
+	width: 200px;
+}
+
+div.col-6 {
+	height: 200pxs;
+}
+
+.team {
+	background-color: pink;
+	color: white;
+}
+
+.post {
+	background-color: lightblue;
+	color: white;
+}
+
+.form-control {
+	width: 559px;
+}
+
+.contact {
+	color: white;
+}
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/* Pinterest */
+.fab {
+	background: #CB2027;
+	color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+	
